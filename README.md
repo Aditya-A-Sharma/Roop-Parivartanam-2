@@ -10,7 +10,11 @@ Features:
 - Output files are renamed as Video_Face.mp4.
 - Script checks if the video has already been processed and if the output file with same name exists it skips that file.
 
-Future features to be added:
+You can watch more demos of the roop face swapped videos [here](https://drive.google.com/drive/folders/1KHv8n_rd3Lcr2v7jBq1yPSTWM554Gq8e)
+
+![demo](https://github.com/Aditya-A-Sharma/Modify/assets/110774846/00165ec2-5fb0-4499-83d5-d7938cc4fa82)
+
+Future plans:
 - Option to enable or disable gpu acceleration. (Script is slower without gpu but far more likely to run without errors).
 - Install button to run anoher script which will install roop from @s0md3v is not found.
 - Output directory option, which will overwrite the default of saving the processed file in the target video directory. (If requested by some user)
