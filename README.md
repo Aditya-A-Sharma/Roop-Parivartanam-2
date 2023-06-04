@@ -31,6 +31,8 @@ Advanced mode : If you have multiple versions or forks of roop, you can use this
 
 ## How do I install it?
 
+**If you already have roop installed all you have to do is place the modify.py file in the root folder.** 
+
 **Issues according installation will be closed without ceremony from now on, we cannot handle the amount of requests.**
 
 There are two types of installations: basic and gpu-powered.
@@ -40,6 +42,9 @@ There are two types of installations: basic and gpu-powered.
 - **GPU:** If you have a good GPU and are ready for solving any software issues you may face, you can enable GPU which is wayyy faster. To do this, first follow the basic install instructions given above and then follow GPU-specific instructions [here](https://github.com/s0md3v/roop/wiki/2.-GPU-Acceleration).
 
 ## How do I use it?
+
+**If you have already used roop than you just need to run this file via cmd: 'python Path\To\Roop\modify.py'  without the quotes.** 
+
 > Note: When you run this program for the first time, it will download some models ~300MB in size.
 
 Executing `python run.py` command will launch this window:
