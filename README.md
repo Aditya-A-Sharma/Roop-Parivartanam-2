@@ -28,7 +28,7 @@ Advanced mode : If you have multiple versions or forks of roop, you can use this
 
 ## How do I install it?
 
-**If you already have roop installed all you have to do is place the modify.py file in the root folder.** 
+**If you already have roop installed all you have to do is place the modify.py file in the root folder and run it via python.** 
 
 **Issues according installation will be closed without ceremony from now on, we cannot handle the amount of requests.**
 
