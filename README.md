@@ -16,7 +16,7 @@ You can watch more demos of the roop face swapped videos [here](https://drive.go
 
 ![demo](https://github.com/Aditya-A-Sharma/Modify/assets/110774846/00165ec2-5fb0-4499-83d5-d7938cc4fa82)
 
-Simple mode : Just drop the modify.py file in the roop directory and you are good to go.
+Simple mode : Just drop the modify.py file in the roop directory and run the file with python.
 
 ![Modify - One Click Face Swapper - simple mode](https://github.com/Aditya-A-Sharma/Modify/assets/110774846/22a6013e-916e-4ade-98e2-2f26efc1f2e3)
 
