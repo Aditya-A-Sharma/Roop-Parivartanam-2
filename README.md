@@ -16,7 +16,7 @@ You can watch more demos of the roop face swapped videos [here](https://drive.go
 
 ![demo](https://github.com/Aditya-A-Sharma/Modify/assets/110774846/00165ec2-5fb0-4499-83d5-d7938cc4fa82)
 
-# Installation
+## Installation
 
 **If you already have roop installed all you have to do is place the modify.py file in the root folder and run it via python.** 
 
@@ -25,11 +25,13 @@ There are two types of installations: basic and gpu-powered.
 - **Basic:** It is more likely to work on your computer but it will also be very slow. You can follow instructions for the basic install [here](https://github.com/s0md3v/roop/wiki/1.-Installation).
 
 - **GPU:** If you have a good GPU and are ready for solving any software issues you may face, you can enable GPU which is wayyy faster. To do this, first follow the basic install instructions given above and then follow GPU-specific instructions [here](https://github.com/s0md3v/roop/wiki/2.-GPU-Acceleration).
+ 
+
+## Screenshots
 
 Simple mode : Just drop the modify.py file in the roop directory and run the file with python.
 
 ![Modify - One Click Face Swapper - simple mode](https://github.com/Aditya-A-Sharma/Modify/assets/110774846/22a6013e-916e-4ade-98e2-2f26efc1f2e3)
-
 
 Advanced mode : If you have multiple versions or forks of roop, you can use this mode to select the venv activation file and the run.py. 
 
