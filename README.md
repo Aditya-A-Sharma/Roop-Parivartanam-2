@@ -1,5 +1,7 @@
-# Modify One Click Bulk Deepfake UI for roop
+# Roop-Parivartanam - One Click Bulk Deepfake UI for roop
 Trying to enhance the functionality of the face swapping 'roop' project from @s0md3v via some python magic.
+
+( Name changed to Roop-Parivartanam )
 
 Kindly note, do not misuse this, do not swap faces without their consent, do not do to others what you wouldn't wanna be done to you or your loved ones. 
 
